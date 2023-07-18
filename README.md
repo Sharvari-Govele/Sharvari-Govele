@@ -1,9 +1,12 @@
 ![MasteHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+
 <h1 align="center">Hi 👋, I'm Sharvari Govele</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvari-govele&label=Profile%20views&color=0e75b6&style=flat" alt="sharvari-govele" /> </p>
+
+
 
 - 🌱 I’m currently learning **React and NodeJs**
 
@@ -13,8 +16,11 @@
 
 - 📫 How to reach me **sharvarigovele777@gmail.com**
 
+- 📄 Know about my experiences [https://sharvari-govele.github.io/](https://sharvari-govele.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sharvari-govele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharvari-govele" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharvari-govele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharvari-govele" height="30" width="40" /></a>
 </p>
 
@@ -26,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharvari-govele&show_icons=true&locale=en" alt="sharvari-govele" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvari-govele&" alt="sharvari-govele" /></p>
-
